@@ -1,14 +1,14 @@
-# TETRIS-OS: An operating system that only plays Tetris.
+# TETRIS-OS: An operating system that only plays Tetri.
 
 ![screenshot](images/0.png)
 
 #### Features:
-- It's Tetris.
+- It's Tetri.
 - 32-bit (x86)
 - Fully custom bootloader
 - Soundblaster 16 driver
 - Custom music track runner
-- Fully hardcoded tetris theme
+- Fully hardcoded tetri theme
 - Double-buffered 60 FPS graphics at 320x200 pixels with custom 8-bit RGB palette
 
 #### Running

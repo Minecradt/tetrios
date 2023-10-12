@@ -1,4 +1,4 @@
-# TETRIS-OS: An operating system that only plays Tetri.
+# TETRI-OS: An operating system that only plays Tetri.
 
 ![screenshot](images/0.png)
 
